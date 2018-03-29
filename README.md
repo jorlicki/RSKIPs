@@ -95,4 +95,4 @@ RSK Improvement Proposals
 | Initials | Full name                    |
 | -------- | ---------------------------- |
 | SDL      | Sergio Demian Lerner         |
-| MM       | Martin Medina                |
+| MMM       | Martin Medina                |
